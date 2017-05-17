@@ -1,2 +1,3 @@
 # Algorytmy
-Algorytm wyszukiwania ze strażnikiem
+
+Przykładowy algorytm: Wyszukiwania ze strażnikiem
